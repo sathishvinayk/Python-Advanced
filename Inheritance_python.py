@@ -10,3 +10,5 @@ z=SecondClass()
 z.setdata(42)
 z.display()
 
+#calling firstClass instance again will show undistrupted value
+x.display()
