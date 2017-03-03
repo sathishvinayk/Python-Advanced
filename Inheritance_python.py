@@ -1,6 +1,6 @@
 #Creating a second class which inherits the superclass
 
-from import FirstClass
+from Class_in_python import FirstClass
 class SecondClass(FirstClass):
   def display(self):
       print('Current value = "%s"' %self.data)
