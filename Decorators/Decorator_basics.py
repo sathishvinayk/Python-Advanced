@@ -7,7 +7,7 @@ class General:
 	#Now define a decorator below
 	@staticmethod
 	def printupdated():
-		print('Total number of %s class instance created" %updated)
+		print("Total number of %s class instance created" %updated)
 
 a=General()
 b=General()
